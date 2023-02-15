@@ -12,4 +12,4 @@ source:
 task_types:
   - instruction-tuning
 description:
-  - A materialized verion of the train split of NI
+  - P3
