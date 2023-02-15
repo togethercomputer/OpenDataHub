@@ -1,0 +1,15 @@
+pretty_name: P3
+license:
+  - apache-2.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - refer to source
+source:
+  - https://huggingface.co/datasets/Muennighoff/P3
+task_types:
+  - instruction-tuning
+description:
+  - P3
