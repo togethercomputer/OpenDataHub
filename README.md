@@ -1,5 +1,13 @@
 # Better-OIG-Together
 
+This repositary contains the current snapshot of the OIG bot. You can find all training data in `data`,
+the hyperparameters used for training in `training.yaml`, training log in `training_log`,
+and the pointer to the model at `model.yaml`.
+
+You can find in different branches different specialized version of this bot.
+
+You can make it better by providing you data! 
+
 ## Data Model
 
 How should we think about the training data for OIG bots? A _training set_ is a _set_ of _slices_, 
