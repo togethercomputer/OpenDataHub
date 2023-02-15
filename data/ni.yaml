@@ -1,0 +1,15 @@
+pretty_name: Natural Instructions
+license:
+  - apache-2.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - refer to source
+source:
+  - https://github.com/allenai/natural-instructions
+task_types:
+  - instruction-tuning
+description:
+  - Natural Instructions

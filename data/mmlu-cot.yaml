@@ -1,0 +1,15 @@
+pretty_name: mmlu-cot
+license:
+  - other
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - refer to source
+source:
+  - https://github.com/jasonwei20/flan-2/blob/main/mmlu-cot.json
+task_types:
+  - chain-of-thought
+description:
+  - MMLU-COT

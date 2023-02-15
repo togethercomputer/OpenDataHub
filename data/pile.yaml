@@ -1,0 +1,15 @@
+pretty_name: The Pile
+license:
+  - other
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - refer to source
+source:
+  - https://huggingface.co/datasets/the_pile
+task_types:
+  - language-modeling
+description:
+  - The pile.
