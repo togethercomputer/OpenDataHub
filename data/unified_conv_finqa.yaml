@@ -1,0 +1,17 @@
+pretty_name: Unified ConvFinQA
+license:
+  - mit
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1P2LLqYrQ-RKvB1ZsGUJ1X2SeUYsslsrH/view?usp=drivesdk
+source:
+  - https://github.com/czyssrs/ConvFinQA
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

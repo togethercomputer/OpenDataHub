@@ -1,0 +1,17 @@
+pretty_name: Unified cot_instructions
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1ek-A21VoYtRoVEV3uHbRiAIu_lvBgWTT/view?usp=drivesdk
+source:
+  - None
+processed_by:
+  - Huu (Laion)
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

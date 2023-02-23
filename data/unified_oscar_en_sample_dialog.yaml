@@ -1,0 +1,17 @@
+pretty_name: unified_oscar_en_sample_dialog
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1Haa63l2WLktDRJ-wJcY5MUpB2xalPO0_/view?usp=drivesdk
+source:
+  - None
+task_types:
+  - dialogue
+processed_by:
+  - Huu (Laion)
+description:
+  - None

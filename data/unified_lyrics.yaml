@@ -1,0 +1,17 @@
+pretty_name: unified_lyrics
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/16QNrXAWFilhrCDM-zBqo1p3GvJ4eHppe/view?usp=drivesdk
+source:
+  - https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=lyrics-data.csv
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"
