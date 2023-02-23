@@ -1,0 +1,17 @@
+pretty_name: Unified OPENAI TLDR
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1U9dRa9ata9tipGMqwurx7qW7yQfkhfC3/view?usp=drivesdk
+source:
+  - https://huggingface.co/datasets/CarperAI/openai_summarize_tldr <=== not sure about the actual source.
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

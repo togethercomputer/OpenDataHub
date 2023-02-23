@@ -1,0 +1,17 @@
+pretty_name: unified_multi_news
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/15b2PFMeSnMp3ZIQZsSI_JRSKBhFhN1L3/view?usp=drivesdk
+source:
+  - https://huggingface.co/datasets/multi_news
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

@@ -1,0 +1,17 @@
+pretty_name: Unified plot_screenplay_books_dialog
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1bSrmcGjSbHTKFgkAVqoNpQ7Z_OzTXKgK/view?usp=drivesdk
+source:
+  - None
+processed_by:
+  - Huu (Laion)
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

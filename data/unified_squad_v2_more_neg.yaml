@@ -1,0 +1,17 @@
+pretty_name: Unified SQUADv2 with more Negative Questions
+license:
+  - cc-by-sa-4.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1qS32twBKk-qPdQTcE5fPnNwzSEzR50jO/view?usp=drivesdk
+source:
+  - https://huggingface.co/datasets/squad_v2
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

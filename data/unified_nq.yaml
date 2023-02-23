@@ -1,0 +1,17 @@
+pretty_name: Unified NQ
+license:
+  - cc-by-sa-3.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1o6nq2uD2lxKAJzsrkiSw5fd-o6fkq4qd/view?usp=drivesdk
+source:
+  - https://ai.google.com/research/NaturalQuestions/
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

@@ -1,0 +1,17 @@
+pretty_name: Unified HC3 human
+license:
+  - cc-by-sa-4.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1oX3b99uozKCe6wQRyd4idx16KI4-5meU/view?usp=drivesdk
+source:
+  - https://huggingface.co/datasets/Hello-SimpleAI/HC3
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"
