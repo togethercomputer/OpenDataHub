@@ -12,6 +12,6 @@ source:
 task_types:
   - dialogue
 processed_by:
-  - Huu (Laion)
+  - Huu Nguyen
 description:
   - Dialogue data from SODA
