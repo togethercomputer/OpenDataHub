@@ -37,6 +37,13 @@ IOPairs:
   output: OUTPUT TEXT STRING
 ...
 ```
+or pure text
+```
+Text:
+- text: TEXT STRING
+- text: TEXT STRING
+...
+```
 
 2. You can provide us the link to your dataset on HuggingFace
 ```
