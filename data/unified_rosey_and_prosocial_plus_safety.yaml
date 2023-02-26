@@ -1,4 +1,4 @@
-pretty_name: unified_oa_v3_fixed_plus_safety
+pretty_name: rosey_and_prosocial + safety
 license:
   - None
 language:
@@ -12,6 +12,6 @@ source:
 task_types:
   - dialogue
 processed_by:
-  - Huu (Laion)
+  - Huu Nguyen
 description:
   - None
