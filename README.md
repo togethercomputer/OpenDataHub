@@ -1,12 +1,12 @@
 # Better-OIG-Together
 
-This repositary contains the current snapshot of the OIG bot. You can find all training data in `data`,
+This repository contains the current snapshot of the OIG bot. You can find all training data in `data`,
 the hyperparameters used for training in `training.yaml`, training log in `training_log`,
 and the pointer to the model at `model.yaml`.
 
 You can find in different branches different specialized version of this bot.
 
-You can make it better by providing you data! 
+You can make it better by contributing  data! 
 
 ## Data Model
 
@@ -80,13 +80,13 @@ You can help us to make OIG better in three ways.
 
 ### Finding "Bugs"
 
-If you realize that the bug is not performing well, please open an Issue, specifying 
-your input and the bot's output.
+If you realize that the bug is not performing well, please open an issue, specifying 
+your input, the bot's output, and a description of what is wrong with it (potentially with the right answer).
 
 ### Fixing "Bugs"
 
 If you have data that you believe could be useful to fix some of the issues, please
-add your data into the `data` folder and make a pull request associated with the Issue
+add your data into the `data` folder and make a pull request associated with the issue
 that you think this will fix.
 
 We will review these pull requests, train a model, and merge them.
@@ -96,5 +96,4 @@ We will review these pull requests, train a model, and merge them.
 You don't have to always merge into the main branch. If you have specific things to 
 try out (e.g., a `text2sql` bot), feel free to open a new branch work there!
 
-
-
+Let's work together to make the best open-source bot!
