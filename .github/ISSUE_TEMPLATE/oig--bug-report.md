@@ -1,5 +1,5 @@
 ---
-name: OIG Bug report
+name: 'OIG: Bug Report'
 about: Create a report to help us improve
 title: ''
 labels: bug
