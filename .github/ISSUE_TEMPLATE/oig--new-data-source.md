@@ -1,5 +1,5 @@
 ---
-name: 'New Data Source: _____________'
+name: 'OIG: New Data Source'
 about: New Data Source to Improve OIG
 title: ''
 labels: new data
