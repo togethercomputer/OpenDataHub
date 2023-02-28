@@ -10,24 +10,25 @@ assignees: ''
 ### Data Source
 
 ```
-pretty_name: unified_unifiedskg_instructions
+pretty_name: ___NAME___
 license:
-  - None
+  - ___LICENSE___
 language:
-  - en
+  - ___LANGUAGE___
 multilinguality:
-  - monolingual
+  - ___monolingual/multilingual___
 download_link:
-  - https://drive.google.com/file/d/1ZiHnzRVtVffItxie-nfQAPAyLT6vsqq_/view?usp=drivesdk
+  - ___ULR___
 source:
-  - None
+  - ___SOURCE___
 task_types:
-  - dialogue
+  - ___e.g., dialogue___
 processed_by:
-  - Huu Nguyen
+  - ___USER___
 description:
-  - None
+  - ___DESCRIPTION___
 ```
+
 ### Example Prompts that you believe this data source will perform well on (or issues that you think this data source will fix)
 
 __________
