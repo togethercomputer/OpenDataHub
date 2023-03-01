@@ -1,0 +1,6 @@
+model_name: OIG
+version: 0.13
+training_config:
+    - training_22_2_27.yaml for 524M tokens
+    - training_22_2_28.yaml for 262M tokens
+    - training_22_3_1.yaml for 367M tokens
