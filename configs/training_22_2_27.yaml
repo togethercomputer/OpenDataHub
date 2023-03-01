@@ -1,0 +1,49 @@
+optimizer:
+    - optimizer_type: 8bit-adam
+    - learning_rate: 1e-6
+lr_scheduler:
+    - lr_scheduler_type: linear
+    - peak_learning_rate: 1e-6
+    - warmup_steps: 10
+parallel_training:
+    - world_size: 16
+    - pipline_parallel:
+        - pipeline_group_size: 8
+        - pipeline_type: gpipe
+    - data_parallel:
+        - data_group_size: 2
+        - data_parallel_type: cocktail_sgd
+batch_size:
+    - per_data_worker_batch_size: 128
+    - global_batch_size: 256
+sequence_length:
+    - 2048
+precision:
+    - mixed precision fp16
+training_data:
+    - ni:0.2
+    - p3:0.5
+    - flan:0.2
+    - unified_chip2:0.01
+    - unified_oa_v3_fixed_plus_safety:0.1
+    - unified_soda_dialog:0.1
+    - unified_unifiedskg_instructions:0.1
+    - unified_merged_code_xp3:0.1
+    - unified_oscar_en_sample_dialog:0.1
+    - unified_ul2_plus_oscar_en_sample_dialog:0.1
+    - unified_multi_news:0.01
+    - unified_openai_summarize_tldr:0.01
+    - unified_scitldr:0.01
+    - unified_squad_v2:0.01
+    - unified_nq:0.01
+    - unified_poetry_instructions:0.01
+    - unified_sqlv2:0.01
+    - unified_unatural_instructions:0.01
+    - unified_conv_finqa:0.01
+    - unified_lyrics:0.01
+    - unified_essays:0.01
+    - unified_plot_screenplay_books_dialog:0.01
+    - unified_grade_school_math_instructions:0.01
+    - unified_cot_instructions:0.01
+    - unified_joke_explanations:0.01
+    - unified_cuad:0.01
