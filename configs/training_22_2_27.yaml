@@ -21,11 +21,11 @@ sequence_length:
 precision:
     - mixed precision fp16
 training_data:
-    - ni:0.2
-    - p3:0.5
-    - flan:0.2
+    - unified_ni:0.2
+    - unified_p3:0.5
+    - unified_flan:0.2
     - unified_chip2:0.01
-    - unified_oa_v3_fixed_plus_safety:0.1
+    - unified_rosey_and_prosocial_plus_safety:0.1
     - unified_soda_dialog:0.1
     - unified_unifiedskg_instructions:0.1
     - unified_merged_code_xp3:0.1
