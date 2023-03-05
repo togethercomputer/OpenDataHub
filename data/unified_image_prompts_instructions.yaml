@@ -1,0 +1,17 @@
+pretty_name: image prompts instructions
+license:
+  - None
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1L0d1MFQNhlQGGHEsuV61bCLyNR4juOGG/view?usp=drivesdk
+source:
+  - None
+task_types:
+  - dialogue
+processed_by:
+  - Huu Nguyen
+description:
+  - None
