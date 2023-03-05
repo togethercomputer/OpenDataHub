@@ -1,0 +1,17 @@
+pretty_name: P3 in dialogue
+license:
+  - apache-2.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1WZD22rtjUz8eT0ZFV_v9SsTAU6oVJSSW/view?usp=drivesdk
+source:
+  - https://huggingface.co/datasets/Muennighoff/P3
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

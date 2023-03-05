@@ -1,0 +1,17 @@
+pretty_name: NI in dialogue
+license:
+  - apache-2.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - 
+source:
+  - https://huggingface.co/datasets/Muennighoff/natural-instructions
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"

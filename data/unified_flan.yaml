@@ -1,0 +1,17 @@
+pretty_name: Flan in dialogue
+license:
+  - apache-2.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://drive.google.com/file/d/1TmUU4HsfwlbZjdJZHbO0FP2dU9ACKLdP/view?usp=drivesdk
+source:
+  - https://huggingface.co/datasets/Muennighoff/flan
+processed_by:
+  - Jue
+task_types:
+  - dialogue
+description:
+  - "<human>: xxxx\n<bot>: yyyy"
