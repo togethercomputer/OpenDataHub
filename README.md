@@ -1,16 +1,16 @@
-# Better-OIG-Together
+# OpenDataHub
 
-This repository contains the current snapshot of the OIG bot. You can find all training data in `data`,
+This repository contains the current snapshot of the OpenChatKit bot. You can find all training data in `data`,
 the hyperparameters used for training in `training.yaml`, training log in `training_log`,
 and the pointer to the model at `model.yaml`.
 
-You can find in different branches different specialized version of this bot.
+You can find in different branches different specialized versions of this bot.
 
-You can make it better by contributing  data! 
+You can make it better by contributing data! 
 
 ## Data Model
 
-How should we think about the training data for OIG bots? A _training set_ is a _set_ of _slices_, 
+How should we think about the training data for OpenChatKit bots? A _training set_ is a _set_ of _slices_, 
 where each _slice_ contains a set of (input, output) pairs. Each slice corresponds to one file 
 in the `data` folder.
 
@@ -76,7 +76,7 @@ and (optionally) Together API end-point to query such a model.
 
 ## How to Contribute?
 
-You can help us to make OIG better in three ways.
+You can help us to make OpenChatKit better in three ways.
 
 ### Finding "Bugs"
 
