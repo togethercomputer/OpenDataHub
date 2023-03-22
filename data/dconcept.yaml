@@ -1,0 +1,17 @@
+pretty_name: Common concepts based on matrix of concepts' structure
+license:
+  - apache-2.0
+language:
+  - en
+multilinguality:
+  - monolingual
+download_link:
+  - https://github.com/paulfranceschi/taxonomy-of-concepts-for-AI/blob/main/data/dconcept.jsonl
+source:
+  - https://github.com/paulfranceschi/taxonomy-of-concepts-for-AI
+processed_by:
+  - Paul Franceschi
+task_types:
+  - dialogue
+description:
+  - "prompt": "xxxx", "completion": "yyyy<|endoftext|>"
