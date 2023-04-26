@@ -1,0 +1,15 @@
+pretty_name: Code_Alpaca20k
+license:
+  - none
+language:
+  - en
+multilinguality:
+  - none
+download_link:
+  - https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k/raw/main/code_alpaca_20k.json
+source:
+  - https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k
+task_types:
+  - text generation
+description:
+  -  Data from Alpaca
